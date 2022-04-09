@@ -11,7 +11,7 @@
     "is-empty": "^1.2.0",
     "jwt-decode": "^2.2.0",
     "materialize-css": "^1.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-sass": "^4.13.0",
     "nouislider": "^14.0.3",
     "prop-types": "^15.7.2",
